@@ -25,7 +25,7 @@ SECRET_KEY = 'sf^v2%@9#89f3o6&wy3#nlbuq(jxmzz&#a8w@g-t1z%*01w^t1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'studentsteminarp.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'studentsteminar.pythonanywhere.com']
 
 
 # Application definition
